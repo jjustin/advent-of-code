@@ -131,3 +131,6 @@ dmypy.json
 # AoC input files
 input.py
 input
+
+# Setup
+.direnv
