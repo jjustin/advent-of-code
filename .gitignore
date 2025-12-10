@@ -134,3 +134,6 @@ input
 
 # Setup
 .direnv
+
+# golang
+vendor/
